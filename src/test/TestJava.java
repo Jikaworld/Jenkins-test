@@ -9,6 +9,8 @@ public class TestJava {
 		System.out.println("hello world");
 		System.out.println("hello world 2");
 		System.out.println("hello world 333");
+		System.out.println("hello world 333");
+
 		// TODO Auto-generated method stub
 
 	}
