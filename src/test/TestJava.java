@@ -12,6 +12,12 @@ public class TestJava {
 		System.out.println("ohohohohohohoh");
 		System.out.println("Martin");
 		// TODO Auto-generated method stub
+		asdsada
+		da
+		ds
+		sadsad
+		sasad
+		
 
 	}
 
